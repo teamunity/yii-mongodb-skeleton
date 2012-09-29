@@ -1,0 +1,6 @@
+[submodule "vendor/yii"]
+	path = vendor/yii
+	url = git://github.com/teamunity/yii.git
+[submodule "vendor/YiiMongoDbSuite"]
+	path = vendor/YiiMongoDbSuite
+	url = git@github.com:teamunity/YiiMongoDbSuite.git

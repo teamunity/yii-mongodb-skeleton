@@ -1,0 +1,1 @@
+{"MONGO_HOST" : "127.0.0.1:27017", "MONGO_DB": "tango", "APP_NAME":"tango"}
